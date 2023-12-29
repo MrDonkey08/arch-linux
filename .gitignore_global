@@ -1,0 +1,6 @@
+# Global Git ignore file
+.cache/
+.paru/
+.yay/
+paru/
+yay/

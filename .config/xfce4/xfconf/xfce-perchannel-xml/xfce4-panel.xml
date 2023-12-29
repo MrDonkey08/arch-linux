@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=8;x=960;y=1060"/>
+      <property name="length" type="double" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="32"/>
+      <property name="size" type="uint" value="38"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="15"/>
+        <value type="int" value="7"/>
+        <value type="int" value="17"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+        <value type="int" value="14"/>
+        <value type="int" value="13"/>
+      </property>
+      <property name="output-name" type="string" value="Primary"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="nrows" type="uint" value="1"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-2" type="string" value="tasklist">
+      <property name="grouping" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="false"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+      <property name="show-handle" type="bool" value="true"/>
+      <property name="show-tooltips" type="bool" value="true"/>
+      <property name="sort-order" type="uint" value="4"/>
+      <property name="middle-click" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="ethernet network connection “wired connection 2” active"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="networkmanager applet"/>
+        <value type="string" value="ethernet network connection “wired connection 1” active"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="obs"/>
+        <value type="string" value="strawberry"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="chrome_status_icon_1"/>
+        <value type="string" value="flameshot"/>
+        <value type="string" value="pcloud1"/>
+      </property>
+      <property name="hide-new-items" type="bool" value="false"/>
+      <property name="single-row" type="bool" value="false"/>
+      <property name="icon-size" type="int" value="22"/>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Brave;org.strawberrymusicplayer.strawberry.desktop;spotify;vlc"/>
+      <property name="volume-max" type="uint" value="150"/>
+      <property name="volume-step" type="uint" value="5"/>
+      <property name="play-sound" type="bool" value="false"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="mode" type="uint" value="2"/>
+      <property name="timezone" type="string" value="America/Mexico_City"/>
+      <property name="command" type="string" value=""/>
+      <property name="digital-date-format" type="string" value="%d %b %Y"/>
+      <property name="digital-time-format" type="string" value="%r"/>
+      <property name="digital-layout" type="uint" value="1"/>
+      <property name="fuzziness" type="uint" value="0"/>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-7" type="string" value="whiskermenu">
+      <property name="view-mode" type="int" value="1"/>
+      <property name="launcher-show-description" type="bool" value="false"/>
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="recent" type="array">
+        <value type="string" value="com.obsproject.Studio.desktop"/>
+        <value type="string" value="brave-pjibgclleladliembfgfagdaldikeohf-Default.desktop"/>
+        <value type="string" value="brave-browser.desktop"/>
+        <value type="string" value="xfce-keyboard-settings.desktop"/>
+        <value type="string" value="codium.desktop"/>
+        <value type="string" value="code-oss.desktop"/>
+        <value type="string" value="appimagekit-pcloud.desktop"/>
+        <value type="string" value="org.keepassxc.KeePassXC.desktop"/>
+        <value type="string" value="obsidian.desktop"/>
+        <value type="string" value="org.pwmt.zathura.desktop"/>
+        <value type="string" value="thunar.desktop"/>
+        <value type="string" value="org.strawberrymusicplayer.strawberry.desktop"/>
+        <value type="string" value="brave-hnpfjngllnobngcgfapefoaidbinmjnm-Default.desktop"/>
+        <value type="string" value="steam.desktop"/>
+        <value type="string" value="discord.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="appimagekit_ebfadc65c5d2dd8585c4df6d7b446c24-deemix-gui.desktop"/>
+        <value type="string" value="xfce4-terminal-settings.desktop"/>
+        <value type="string" value="spotify-launcher.desktop"/>
+      </property>
+      <property name="default-category" type="int" value="1"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
+      <property name="show-button-icon" type="bool" value="true"/>
+      <property name="show-button-title" type="bool" value="false"/>
+      <property name="show-command-menueditor" type="bool" value="true"/>
+      <property name="category-show-name" type="bool" value="true"/>
+      <property name="menu-width" type="int" value="500"/>
+      <property name="category-icon-size" type="int" value="1"/>
+      <property name="launcher-show-tooltip" type="bool" value="true"/>
+      <property name="sort-categories" type="bool" value="true"/>
+      <property name="stay-on-focus-out" type="bool" value="false"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="position-categories-alternate" type="bool" value="false"/>
+      <property name="profile-shape" type="int" value="0"/>
+      <property name="button-single-row" type="bool" value="false"/>
+      <property name="hover-switch-category" type="bool" value="false"/>
+      <property name="recent-items-max" type="int" value="20"/>
+      <property name="position-profile-alternate" type="bool" value="false"/>
+      <property name="position-commands-alternate" type="bool" value="false"/>
+    </property>
+    <property name="plugin-14" type="string" value="xkb">
+      <property name="display-type" type="uint" value="2"/>
+      <property name="display-name" type="uint" value="1"/>
+      <property name="display-scale" type="uint" value="58"/>
+      <property name="caps-lock-indicator" type="bool" value="true"/>
+      <property name="group-policy" type="uint" value="0"/>
+      <property name="display-tooltip-icon" type="bool" value="true"/>
+    </property>
+    <property name="plugin-15" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="false"/>
+      </property>
+    </property>
+    <property name="plugin-1" type="string" value="pager">
+      <property name="rows" type="uint" value="2"/>
+      <property name="miniature-view" type="bool" value="true"/>
+      <property name="wrap-workspaces" type="bool" value="false"/>
+    </property>
+  </property>
+</channel>

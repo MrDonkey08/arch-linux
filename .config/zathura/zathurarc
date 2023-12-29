@@ -1,0 +1,8 @@
+# global config
+set recolor
+
+#colors
+set default-bg '#1d2021'
+set recolor-lightcolor '#282828'
+
+set sandbox none

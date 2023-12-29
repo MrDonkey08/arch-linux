@@ -1,0 +1,43 @@
+[safe]
+	directory = /home/donkey/.cache/yay/ttf-ms-fonts
+	directory = /home/donkey/.cache/yay/brave-bin
+	directory = /home/donkey/.cache/paru/clone/scrub
+	directory = /home/donkey/.cache/yay/vscodium-bin
+	directory = /home/donkey/.cache/paru/clone/libajantv2
+	directory = /home/donkey/.cache/paru/clone/plog
+	directory = /home/donkey/.cache/paru/clone/libusrsctp
+	directory = /home/donkey/.cache/paru/clone/libdatachannel-nice
+	directory = /home/donkey/.cache/paru/clone/cef-minimal-obs-bin
+	directory = /home/donkey/.cache/paru/clone/ffmpeg-obs
+	directory = /home/donkey/.cache/paru/clone/ftl-sdk
+	directory = /home/donkey/.cache/paru/clone/qrcodegen-cmake
+	directory = /home/donkey/.cache/paru/clone/vlc-luajit
+	directory = /home/donkey/.cache/
+[safe]
+	directory = /home/donkey/Drives/github/new-cursos/terminal-y-linea-de-comandos
+	directory = /home/donkey/Drives/github/escuela/1ro
+    	directory = /home/donkey/Drives/github/escuela/4to/
+    	directory = /home/donkey/Drives/github/escuela/4to
+    	directory = /home/donkey/Drives/github/cursos
+    	directory = /home/donkey/Drives/github/escuela/4to/.git
+    	directory = /home/donkey/Drives/github/cursos/
+	directory = /home/donkey/Drives/github/escuela/3ro
+	directory = /home/donkey
+	directory = /home/alan08
+	directory = /home/alan08/powerlevel10k
+	directory = /home/alan08/Desktop
+[user]
+        name = Alan
+        email = 113253976+MrDonkey08@users.noreply.github.com
+[filter "lfs"]
+        clean = git-lfs clean -- %f
+        smudge = git-lfs smudge -- %f
+        process = git-lfs filter-process
+        required = true
+[init]
+        defaultBranch = main
+[alias]
+	# https://platzi.com/comentario/594183/
+	superlog = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+[core]
+	excludesfile = /home/donkey/.gitignore_global
