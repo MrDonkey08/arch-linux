@@ -63,8 +63,8 @@ dconf/
 
 # deemix
 
-deemix/logs/
-deemix/queue/
+.config/deemix/logs/
+.config/deemix/queue/
 
 deemix-gui/
 discord/
@@ -94,11 +94,13 @@ VSCodium/
 
 # xfce4
 
-xfce4/desktop/
-xfce4/panel/
-xfce4/src/
-xfce4/xfwm4.xml/
-xfce4/xfce4-screenshooter
+.config/xfce4/desktop/
+.config/xfce4/panel/
+.config/xfce4/src/
+.config/xfce4/xfwm4.xml/
+.config/xfce4/xfce4-screenshooter
+.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
+.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
 
 yay/
 
