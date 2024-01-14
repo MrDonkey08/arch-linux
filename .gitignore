@@ -94,14 +94,6 @@ VSCodium/
 
 # xfce4
 
-.config/xfce4/desktop/
-.config/xfce4/panel/
-.config/xfce4/src/
-.config/xfce4/xfwm4.xml/
-.config/xfce4/xfce4-screenshooter
-.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml
-.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
-
 yay/
 
 appimagelauncher.cfg
