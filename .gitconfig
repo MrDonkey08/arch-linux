@@ -1,4 +1,5 @@
 [safe]
+	# Cache
 	directory = /home/donkey/.cache/yay/ttf-ms-fonts
 	directory = /home/donkey/.cache/yay/brave-bin
 	directory = /home/donkey/.cache/paru/clone/scrub
@@ -13,20 +14,103 @@
 	directory = /home/donkey/.cache/paru/clone/qrcodegen-cmake
 	directory = /home/donkey/.cache/paru/clone/vlc-luajit
 	directory = /home/donkey/.cache/
-[safe]
-	directory = /home/donkey/Drives/github/new-cursos/terminal-y-linea-de-comandos
-	directory = /home/donkey/Drives/github/escuela/1ro
-    	directory = /home/donkey/Drives/github/escuela/4to/
-    	directory = /home/donkey/Drives/github/escuela/4to
-    	directory = /home/donkey/Drives/github/cursos
-    	directory = /home/donkey/Drives/github/escuela/4to/.git
-    	directory = /home/donkey/Drives/github/cursos/
-	directory = /home/donkey/Drives/github/escuela/3ro
+	directory = /home/donkey/.cache/paru/clone/ttf-font-awesome-4
+	directory = /home/donkey/.cache/paru/clone/ttf-all-the-icons
+	directory = /home/donkey/.cache/paru/clone/git-open
+	directory = /home/donkey/.cache/yay/trimage
+	directory = /home/donkey/.cache/yay/advancecomp
+	# School
 	directory = /home/donkey
-	directory = /home/alan08
-	directory = /home/alan08/powerlevel10k
-	directory = /home/alan08/Desktop
+	directory = /home/donkey/Drives/github/escuela
 	directory = /home/donkey/Drives/github/escuela/agenda-icom
+	directory = /home/donkey/Drives/github/escuela/1ro
+	directory = /home/donkey/Drives/github/escuela/2do
+	directory = /home/donkey/Drives/github/escuela/3ro
+    directory = /home/donkey/Drives/github/escuela/4to
+	directory = /home/donkey/Drives/github/escuela/5to
+	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/actividades/2-fuerza-bruta/4-edicion-de-cadena-de-caracteres
+	directory = /home/donkey/Drives/github/escuela/5to/sistemas-operativos/scripts
+	# Courses
+    directory = /home/donkey/Drives/github/cursos
+	directory = /home/donkey/Drives/github/cursos/git-y-github
+	directory = /home/donkey/Drives/github/cursos/programacion/programacion-web
+	directory = /home/donkey/Drives/github/cursos/programacion/programacion-web/programas/job-extintion
+	directory = /home/donkey/Drives/github/cursos/programacion/rust
+	directory = /home/donkey/Drives/github/cursos/control-de-versiones/git-y-github
+	directory = /home/donkey/Drives/github/cursos/terminal/terminal-y-linea-de-comandos
+	# CV
+	directory = /home/donkey/Documents/latex/FortySecondsCV
+	directory = /home/donkey/Documents/latex/FortySecondsCV/pics/flags
+	# Nvim
+	directory = /home/donkey/.local/share/nvim/lazy/bufferline.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/catppuccin
+	directory = /home/donkey/.local/share/nvim/lazy/conform.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/cmp-buffer
+	directory = /home/donkey/.local/share/nvim/lazy/cmp-nvim-lsp
+	directory = /home/donkey/.local/share/nvim/lazy/cmp-path
+	directory = /home/donkey/.local/share/nvim/lazy/cmp_luasnip
+	directory = /home/donkey/.local/share/nvim/lazy/confort.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/dashboard-nvim
+	directory = /home/donkey/.local/share/nvim/lazy/dressing.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/flash.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/friendly-snippets
+	directory = /home/donkey/.local/share/nvim/lazy/gitsigns.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/indent-blankline.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/lazy.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/LazyVim
+	directory = /home/donkey/.local/share/nvim/lazy/lualine.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/LuaSnip
+	directory = /home/donkey/.local/share/nvim/lazy/mason.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/mason-lspconfig.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/mini.ai
+	directory = /home/donkey/.local/share/nvim/lazy/mini.bufremove
+	directory = /home/donkey/.local/share/nvim/lazy/mini.comment
+	directory = /home/donkey/.local/share/nvim/lazy/mini.indentscope
+	directory = /home/donkey/.local/share/nvim/lazy/mini.pairs
+	directory = /home/donkey/.local/share/nvim/lazy/mini.surround
+	directory = /home/donkey/.local/share/nvim/lazy/noe-tree-nvim
+	directory = /home/donkey/.local/share/nvim/lazy/neoconf.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/neo-tree.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/neodev.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/noice.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/nui.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-cmp
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-lint
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-lspconfig
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-notify
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-spectre
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-treesitter
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-treesitter-context
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-treesitter-textobjects
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-ts-autotag
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-ts-context-commentstring
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-web-devicons
+	directory = /home/donkey/.local/share/nvim/lazy/persistence.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/plenary.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/telescope-fzf-native.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/telescope.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/todo-comments.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/tokyonight.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/trouble.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/vim-illuminate
+	directory = /home/donkey/.local/share/nvim/lazy/vim-startuptime
+	directory = /home/donkey/.local/share/nvim/lazy/which-key.nvim
+	# Extra Vims
+	directory = /home/donkey/.local/share/nvim/lazy/codeium.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/copilot-cmp
+	directory = /home/donkey/.local/share/nvim/lazy/copilot.lua
+	directory = /home/donkey/.local/share/nvim/lazy/crates.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/headlines.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/markdown-preview.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/rustaceanvim
+	directory = /home/donkey/.local/share/nvim/lazy/SchemaStore.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/semshi
+	directory = /home/donkey/.local/share/nvim/lazy/venv-selector.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/vimtex
+	# Settings
+	directory = /home/donkey/.config/nvim
+	directory = /home/donkey/powerlevel10k
+
 [user]
         name = Alan
         email = 113253976+MrDonkey08@users.noreply.github.com
