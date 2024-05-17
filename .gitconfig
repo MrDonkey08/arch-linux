@@ -25,6 +25,7 @@
 	directory = /home/donkey/.cache/paru/clone/brave-bin
 	directory = /home/donkey/.cache/paru/clone/vscodium-bin
 	# School
+	directory = /home/alan08
 	directory = /home/donkey
 	directory = /home/donkey/Drives/github/escuela
 	directory = /home/donkey/Drives/github/escuela/agenda-icom
