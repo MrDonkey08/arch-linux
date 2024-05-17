@@ -2,6 +2,7 @@
 	# Cache
 	directory = /home/donkey/.cache/yay/ttf-ms-fonts
 	directory = /home/donkey/.cache/yay/brave-bin
+	directory = /home/donkey/.cache/yay/cassandra
 	directory = /home/donkey/.cache/paru/clone/scrub
 	directory = /home/donkey/.cache/yay/vscodium-bin
 	directory = /home/donkey/.cache/paru/clone/libajantv2
@@ -19,6 +20,10 @@
 	directory = /home/donkey/.cache/paru/clone/git-open
 	directory = /home/donkey/.cache/yay/trimage
 	directory = /home/donkey/.cache/yay/advancecomp
+	directory = /home/donkey/.cache/yay/python39
+	directory = /home/donkey/.cache/paru/clone/packettracer
+	directory = /home/donkey/.cache/paru/clone/brave-bin
+	directory = /home/donkey/.cache/paru/clone/vscodium-bin
 	# School
 	directory = /home/donkey
 	directory = /home/donkey/Drives/github/escuela
@@ -29,15 +34,22 @@
     directory = /home/donkey/Drives/github/escuela/4to
 	directory = /home/donkey/Drives/github/escuela/5to
 	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/actividades/2-fuerza-bruta/4-edicion-de-cadena-de-caracteres
+	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/actividades/5-algoritmos-voraces/7-huffman
+	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/actividades/5-algoritmos-voraces/7-huffman_fork
+	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/proyecto
+	directory = /home/donkey/Drives/github/escuela/5to/inteligencia-artificial/proyecto_chatbot
 	directory = /home/donkey/Drives/github/escuela/5to/sistemas-operativos/scripts
 	# Courses
     directory = /home/donkey/Drives/github/cursos
+	directory = /home/donkey/Drives/github/cursos/control-de-versiones/git-y-github
 	directory = /home/donkey/Drives/github/cursos/git-y-github
 	directory = /home/donkey/Drives/github/cursos/programacion/programacion-web
 	directory = /home/donkey/Drives/github/cursos/programacion/programacion-web/programas/job-extintion
 	directory = /home/donkey/Drives/github/cursos/programacion/rust
-	directory = /home/donkey/Drives/github/cursos/control-de-versiones/git-y-github
 	directory = /home/donkey/Drives/github/cursos/terminal/terminal-y-linea-de-comandos
+	directory = /home/donkey/Drives/github/old-cursos
+	directory = /home/donkey/Drives/github/old-cursos/bases-de-datos/mongodb
+	directory = /home/donkey/Drives/github/old-cursos/programacion/rust
 	# CV
 	directory = /home/donkey/Documents/latex/FortySecondsCV
 	directory = /home/donkey/Documents/latex/FortySecondsCV/pics/flags
@@ -96,12 +108,15 @@
 	directory = /home/donkey/.local/share/nvim/lazy/vim-startuptime
 	directory = /home/donkey/.local/share/nvim/lazy/which-key.nvim
 	# Extra Vims
+	directory = /home/donkey/.local/share/nvim/lazy/clangd_extensions.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/cmake-tools.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/codeium.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/copilot-cmp
 	directory = /home/donkey/.local/share/nvim/lazy/copilot.lua
 	directory = /home/donkey/.local/share/nvim/lazy/crates.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/headlines.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/markdown-preview.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-jdtls
 	directory = /home/donkey/.local/share/nvim/lazy/rustaceanvim
 	directory = /home/donkey/.local/share/nvim/lazy/SchemaStore.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/semshi
