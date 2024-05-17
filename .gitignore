@@ -93,6 +93,12 @@ vlc/
 VSCodium/
 
 # xfce4
+parole.xml
+ristretto.xml
+thunar.xml
+taskmanager.xml
+xfce4-panel.xml
+xfce4-taskmanager.xml
 
 yay/
 
