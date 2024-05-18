@@ -50,56 +50,70 @@ Videos/
 nohup.out
 
 # .config
+.config/xfce4/panel/
+.config/xfce4/desktop/
 
 autostart/
+bleachbit/
 BraveSoftware/
 cef_user_data/
 Code/
 Code\ -\ OSS/
 codeblocks/
-qtile/
 czkawka/
 dconf/
-.config/xfce4/desktop
-
-# deemix
-
-.config/deemix/logs/
-.config/deemix/queue/
-
+deemix/logs/
+deemix/queue/
 deemix-gui/
 discord/
 Electron/
 ExifCleaner/
 geeqie/
+geogebra/
+GeoGebra/
+GIMP/
+github-copilot/
+glib-2.0/
+gtk-2.0/
 gtk-3.0/
+gtk-4.0/
+ibus/
+Imagine/
 keepassxc/
+Kilian\ Valkhof/
 koodo-reader/
+libreoffice/
+Logseq/
+matplotlib/
 menus/
 Mousepad/
 neofetch/
-obs-studio/
+nvim.bak/
 obsidian/
+obs-studio/
 onlyoffice/
+pavucontrol.ini/
 pcloud/
 pulse/
+QtProject.conf/
+qtile/
+rasa/
+ristretto/
+Session/
 Signal/
+SpeedCrunch/
 spotify/
 Standard\ Notes/
 strawberry/
 Thunar/
 unity3d/
+user-dirs.dirs/
+user-dirs.locale/
+VeraCrypt/
 vlc/
 VSCodium/
-
-# xfce4
-parole.xml
-ristretto.xml
-thunar.xml
-taskmanager.xml
-xfce4-panel.xml
-xfce4-taskmanager.xml
-
+xfburn/
+xfce4-dict/
 yay/
 
 appimagelauncher.cfg
@@ -108,3 +122,11 @@ pavucontrol.ini
 QtProject.conf
 user-dirs.dirs
 user-dirs.locale
+
+# xfce4
+parole.xml
+ristretto.xml
+thunar.xml
+taskmanager.xml
+xfce4-panel.xml
+xfce4-taskmanager.xml
