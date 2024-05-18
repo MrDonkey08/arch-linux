@@ -47,6 +47,17 @@ Videos/
 .xsession-errors
 .zcompdump
 
+.MATLABConnector/
+.MathWorks/
+.editorconfig
+.fzf/
+.java/
+.keras/
+.matlab/
+.packettracer
+packettracer/
+wine/
+
 nohup.out
 
 # .config
