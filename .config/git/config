@@ -126,19 +126,55 @@
 	# Settings
 	directory = /home/donkey/.config/nvim
 	directory = /home/donkey/powerlevel10k
+	directory = /home/donkey/.fzf
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-snippets
+	directory = /home/donkey/.local/share/nvim/lazy/ts-comments.nvim
+	directory = /home/donkey/Templates/tex/modular_project
+	directory = /home/donkey/Templates/tex/project
+	directory = /home/donkey/Templates/tex/act
+	directory = /home/donkey/.cache/paru/clone/advancecomp
+	directory = /home/donkey/.cache/paru/clone/trimage
+	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3/bd_derrumbes
+	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3
+	directory = /home/donkey/Drives/github/blog
+	directory = /home/donkey/Drives/github/mrdonkey08.github.io
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-vtsls
+	directory = /home/donkey/Drives/github/blog/_posts
+	directory = /home/donkey/Drives/github/blog/_posts/control-de-versiones/git-y-github
+	directory = /home/donkey/.local/share/nvim/lazy/lazydev.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/luvit-meta
+	directory = /home/donkey/.local/share/nvim/lazy/mini.hipatterns
+	directory = /home/donkey/.local/share/nvim/lazy/yanky.nvim
+	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web
+	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web/programas/job-extintion
+	directory = /home/donkey/Drives/github/blog/_posts/linux/terminal-y-linea-de-comandos
+	directory = /home/donkey/Drives/github/blog/_posts/informatica/git-y-github
+	directory = /home/donkey/.cache/yay/ttf-font-awesome-4
+	directory = /home/donkey/.cache/yay/ttf-font-awesome-4
+	directory = /home/donkey/.cache/yay/neovim-symlinks
+	directory = /home/donkey/Desktop/new/dotfilesA
+	directory = /home/donkey/Desktop/new/dotfiles
+	directory = /home/donkey/.local/share/nvim/lazy/dial.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/cmp-git
 
-[user]
-        name = Alan
-        email = 113253976+MrDonkey08@users.noreply.github.com
-[filter "lfs"]
-        clean = git-lfs clean -- %f
-        smudge = git-lfs smudge -- %f
-        process = git-lfs filter-process
-        required = true
-[init]
-        defaultBranch = main
 [alias]
 	# https://platzi.com/comentario/594183/
 	superlog = log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+	idiff = diff --color-words='[^[:space:]]|([[:alnum:]]|UTF_8_GUARD)+'
+[color]
+    ui = auto
 [core]
-	excludesfile = /home/donkey/.gitignore_global
+    editor = nvim
+	excludesfile = /home/donkey/.config/git/global_ignore
+[format]
+	pretty = format:%C(bold blue)%h %C(reset yellow)%G? %C(bold green)(%ad) %C(reset default)%s %C(dim white)%an%C(auto)%d %(trailers:)
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[init]
+	defaultBranch = main
+[user]
+	name = Alan
+	email = 113253976+MrDonkey08@users.noreply.github.com

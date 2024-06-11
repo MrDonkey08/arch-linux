@@ -131,12 +131,7 @@ user-dirs.dirs
 user-dirs.locale
 
 # xfce4
-parole.xml
-ristretto.xml
-thunar.xml
-taskmanager.xml
-xfce4-panel.xml
-xfce4-taskmanager.xml
+xfce4/
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux
