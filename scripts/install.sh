@@ -1,5 +1,8 @@
 sudo pacman -Syu
 
+# Android
+sudo pacman -S android-file-transfer
+
 # Utility
 
 sudo pacman -S mdcat bat lsd
@@ -12,7 +15,16 @@ sudo pacman -S curl wget
 
 sudo pacman -S zip unzip tar
 sudo pacman -S p7zip gzip pbzip2
-sudo pacman -S git git-lfs git-open
+
+# GitHub
+
+sudo pacman -S git git-lfs
+yay -S git-open
+
+## GitHub Pages
+
+npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
+gem install jekyll bundler
 
 # Converters
 
@@ -77,11 +89,13 @@ rustup update
 sudo pacman -S gcc clang
 sudo pacman -S python python3 python-pip
 sudo pacman -S tk python-pandas python-numpy python-sympy
+sudo pacman -S jupyterlab
+sudo pacman -S ruby
 
 # Tools
 
 sudo pacman -S bluez bluez-utils
-#sudo pacman -S cups # Impressors
+#sudo pacman -S cups # Printers
 sudo pacman -S keepassxc
 sudo pacman -S gparted
 sudo pacman -S pipewire pipewire-pulse pulseaudio
@@ -93,6 +107,11 @@ sudo pacman -S nano vim neovim obsidian
 sudo pacman -S vscode
 yay -S codium
 sudo pacman -S texlive texlive-lang
+
+## Text Tools
+
+sudo pacman -S prettier
+npm install -g purgecss
 
 # Terminal
 
