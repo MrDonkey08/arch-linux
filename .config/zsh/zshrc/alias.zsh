@@ -10,4 +10,5 @@ alias lla='lsd -lha --group-dirs=first'
 alias ls='lsd --group-dirs=first'
 
 # Git
-alias la="find . -name '.git' -type d -exec bash -c 'git config --global --add safe.directory ${0%/.git}' {} \;"
+alias gitsafe="find . -name '.git' -type d -exec bash -c 'git config --global --add safe.directory ${0%/.git}' {} \;"
+alias gitclean="find . -type d -name ".git" -execdir git clean -dfx \;"
