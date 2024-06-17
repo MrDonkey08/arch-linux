@@ -49,12 +49,36 @@
       "id": "qshlSCYhKj"
     },
     {
+      "expression": "*.auth.netacad.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "fOILxchhVf"
+    },
+    {
+      "expression": "*.auth0.openai.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "h3JU99qTg"
+    },
+    {
       "expression": "*.becas-santander.com",
       "listType": "WHITE",
       "storeId": "default",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "axVVMsPpFl"
+    },
+    {
+      "expression": "*.chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "ZjzNglsEBt"
     },
     {
       "expression": "*.discord.com",
@@ -121,6 +145,14 @@
       "id": "wbb85xIfpO"
     },
     {
+      "expression": "*.esp.windscribe.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "WB5bHvgNh"
+    },
+    {
       "expression": "*.facebook.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -159,6 +191,14 @@
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "N0l_yVZR6W0"
+    },
+    {
+      "expression": "*.instagram.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "zyFJ5I8i_Z"
     },
     {
       "expression": "*.joinhoney.com",
@@ -257,6 +297,14 @@
       "id": "nDQQI_39DA4"
     },
     {
+      "expression": "*.netacad.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "t4rsY0b39"
+    },
+    {
       "expression": "*.netflix.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -279,6 +327,14 @@
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "50iJ8aNPiG5"
+    },
+    {
+      "expression": "*.openai.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "_-rAaXPKL"
     },
     {
       "expression": "*.outlook.live.com",
@@ -417,6 +473,14 @@
       "id": "xvyT5Gd3x0h"
     },
     {
+      "expression": "*.windscribe.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6qDCB8gsO"
+    },
+    {
       "expression": "*.youtube.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -457,12 +521,36 @@
       "id": "H6WjPt9a33g"
     },
     {
+      "expression": "auth.netacad.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "6HCMFSzgQ"
+    },
+    {
+      "expression": "auth0.openai.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "Z6GUnSf-JP"
+    },
+    {
       "expression": "becas-santander.com",
       "listType": "WHITE",
       "storeId": "default",
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "s97RKsnfF_y"
+    },
+    {
+      "expression": "chatgpt.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "78j6LlzSN"
     },
     {
       "expression": "discord.com",
@@ -521,6 +609,14 @@
       "id": "WM3DbOvZOdR"
     },
     {
+      "expression": "esp.windscribe.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "UEg4yakXS"
+    },
+    {
       "expression": "facebook.com",
       "listType": "WHITE",
       "storeId": "default",
@@ -551,6 +647,14 @@
       "cleanSiteData": [],
       "cookieNames": [],
       "id": "y2al4YaW_3I"
+    },
+    {
+      "expression": "instagram.com",
+      "listType": "WHITE",
+      "storeId": "default",
+      "cleanSiteData": [],
+      "cookieNames": [],
+      "id": "NzjLoUNIX"
     },
     {
       "expression": "joinhoney.com",
