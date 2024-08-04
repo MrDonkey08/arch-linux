@@ -7,12 +7,12 @@ vim.o.autoindent = true -- Start new lines correctly indented
 vim.o.breakindent = true -- Indent wrapped lines' continuations
 vim.o.cindent = true -- Indent according to the C indenting rules
 vim.o.expandtab = false -- Expand tabs to spaces (see softtabstop)
-vim.o.showtabline = 2 -- Show the tabline even when just one tab is open
+vim.o.showtabline = 4 -- Show the tabline even when just one tab is open
 vim.o.smartindent = true -- Indent new lines in a smart way (see autoindent)
 vim.o.smarttab = true -- Treat spaces as tabs in increments of shiftwidth
-vim.o.shiftwidth = 2 -- Force indent spaces to equal to tabstop (see tabstop)
+vim.o.shiftwidth = 4 -- Force indent spaces to equal to tabstop (see tabstop)
 vim.o.softtabstop = 0 -- Do not insert spaces when pressing tab (see shiftwidth)
-vim.o.tabstop = 2 -- Number of columns to move when pressing <TAB> (see expandtab)
+vim.o.tabstop = 4 -- Number of columns to move when pressing <TAB> (see expandtab)
 
 -- Wrapping
 vim.o.linebreak = true -- Respect WORDS when wrap-breaking lines (see wrap)

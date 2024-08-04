@@ -24,6 +24,10 @@
 	directory = /home/donkey/.cache/paru/clone/packettracer
 	directory = /home/donkey/.cache/paru/clone/brave-bin
 	directory = /home/donkey/.cache/paru/clone/vscodium-bin
+	directory = /home/donkey/.cache/paru/clone/advancecomp
+	directory = /home/donkey/.cache/paru/clone/trimage
+	directory = /home/donkey/.cache/yay/ttf-font-awesome-4
+	directory = /home/donkey/.cache/yay/neovim-symlinks
 	# School
 	directory = /home/alan08
 	directory = /home/donkey
@@ -40,6 +44,8 @@
 	directory = /home/donkey/Drives/github/escuela/5to/analisis-de-algoritmos/proyecto
 	directory = /home/donkey/Drives/github/escuela/5to/inteligencia-artificial/proyecto_chatbot
 	directory = /home/donkey/Drives/github/escuela/5to/sistemas-operativos/scripts
+	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3/bd_derrumbes
+	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3
 	# Courses
     directory = /home/donkey/Drives/github/cursos
 	directory = /home/donkey/Drives/github/cursos/control-de-versiones/git-y-github
@@ -51,6 +57,14 @@
 	directory = /home/donkey/Drives/github/old-cursos
 	directory = /home/donkey/Drives/github/old-cursos/bases-de-datos/mongodb
 	directory = /home/donkey/Drives/github/old-cursos/programacion/rust
+	directory = /home/donkey/Drives/github/blog
+	directory = /home/donkey/Drives/github/mrdonkey08.github.io
+	directory = /home/donkey/Drives/github/blog/_posts
+	directory = /home/donkey/Drives/github/blog/_posts/control-de-versiones/git-y-github
+	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web
+	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web/programas/job-extintion
+	directory = /home/donkey/Drives/github/blog/_posts/linux/terminal-y-linea-de-comandos
+	directory = /home/donkey/Drives/github/blog/_posts/informatica/git-y-github
 	# CV
 	directory = /home/donkey/Documents/latex/FortySecondsCV
 	directory = /home/donkey/Documents/latex/FortySecondsCV/pics/flags
@@ -123,39 +137,29 @@
 	directory = /home/donkey/.local/share/nvim/lazy/semshi
 	directory = /home/donkey/.local/share/nvim/lazy/venv-selector.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/vimtex
-	# Settings
-	directory = /home/donkey/.config/nvim
-	directory = /home/donkey/powerlevel10k
-	directory = /home/donkey/.fzf
-	directory = /home/donkey/.local/share/nvim/lazy/nvim-snippets
-	directory = /home/donkey/.local/share/nvim/lazy/ts-comments.nvim
-	directory = /home/donkey/Templates/tex/modular_project
-	directory = /home/donkey/Templates/tex/project
-	directory = /home/donkey/Templates/tex/act
-	directory = /home/donkey/.cache/paru/clone/advancecomp
-	directory = /home/donkey/.cache/paru/clone/trimage
-	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3/bd_derrumbes
-	directory = /home/donkey/Drives/github/escuela/5to/bases-de-datos/proyecto/avance-3
-	directory = /home/donkey/Drives/github/blog
-	directory = /home/donkey/Drives/github/mrdonkey08.github.io
+	directory = /home/donkey/.local/share/nvim/lazy/vim-dadbod
+	directory = /home/donkey/.local/share/nvim/lazy/vim-dadbod-completion
+	directory = /home/donkey/.local/share/nvim/lazy/vim-dadbod-ui
+	directory = /home/donkey/.local/share/nvim/lazy/mini.icons
+	directory = /home/donkey/.local/share/nvim/lazy/grug-far.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/markdown.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/dial.nvim
+	directory = /home/donkey/.local/share/nvim/lazy/cmp-git
 	directory = /home/donkey/.local/share/nvim/lazy/nvim-vtsls
-	directory = /home/donkey/Drives/github/blog/_posts
-	directory = /home/donkey/Drives/github/blog/_posts/control-de-versiones/git-y-github
 	directory = /home/donkey/.local/share/nvim/lazy/lazydev.nvim
 	directory = /home/donkey/.local/share/nvim/lazy/luvit-meta
 	directory = /home/donkey/.local/share/nvim/lazy/mini.hipatterns
 	directory = /home/donkey/.local/share/nvim/lazy/yanky.nvim
-	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web
-	directory = /home/donkey/Drives/github/blog/_posts/programacion/programacion-web/programas/job-extintion
-	directory = /home/donkey/Drives/github/blog/_posts/linux/terminal-y-linea-de-comandos
-	directory = /home/donkey/Drives/github/blog/_posts/informatica/git-y-github
-	directory = /home/donkey/.cache/yay/ttf-font-awesome-4
-	directory = /home/donkey/.cache/yay/ttf-font-awesome-4
-	directory = /home/donkey/.cache/yay/neovim-symlinks
-	directory = /home/donkey/Desktop/new/dotfilesA
-	directory = /home/donkey/Desktop/new/dotfiles
-	directory = /home/donkey/.local/share/nvim/lazy/dial.nvim
-	directory = /home/donkey/.local/share/nvim/lazy/cmp-git
+	directory = /home/donkey/.local/share/nvim/lazy/nvim-snippets
+	directory = /home/donkey/.local/share/nvim/lazy/ts-comments.nvim
+	# Settings
+	directory = /home/donkey/.config/nvim
+	directory = /home/donkey/powerlevel10k
+	directory = /home/donkey/.fzf
+	# Templates
+	directory = /home/donkey/Templates/tex/modular_project
+	directory = /home/donkey/Templates/tex/project
+	directory = /home/donkey/Templates/tex/act
 
 [alias]
 	# https://platzi.com/comentario/594183/
