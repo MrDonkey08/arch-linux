@@ -1,5 +1,5 @@
 # Clean pacman cache
-Sudo pacman -Scc
+sudo pacman -Scc
 
 # Clean package cache
 sudo paccache -r

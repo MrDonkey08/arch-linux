@@ -1,5 +1,5 @@
-# !/bin/sh
+#!/bin/sh
 
 sudo pacman -S linux linux-firmware networkmanager grub wpa_supplicant base base-devel
 
-genfstab -U /mnt >> /etc/ftab
+genfstab -U /mnt >>/etc/ftab

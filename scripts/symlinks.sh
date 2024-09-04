@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 
 ln -s ~/Drives/github/new-cursos ~/Desktop/new-cursos
 ln -s ~/Drives/github/blog ~/Desktop/blog
@@ -18,3 +18,11 @@ ln -s ~/Drives/google/Classroom/6to ~/Desktop/drive-6to
 sudo su
 
 ln -s /opt/lampp/htdocs /home/donkey/htdocs
+
+# Root User
+
+ln -s /home/donkey/.config/ /root/.
+ln -s /home/donkey.zshenv /root/.
+ln -s /home/donkey/powerlevel10k/ /root/.
+ls -s /home/donkey/.p10k.zsh /root/.
+ls -s /home/donkey/.cargo/ /root/.
