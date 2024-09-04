@@ -3,6 +3,7 @@
 # Functions to create folders for websites
 
 web-project() {
+	touch index.html
 	css-folder
 	js-folder
 }
@@ -21,7 +22,7 @@ css-folder() {
 
 js-folder() {
 	mkdir js
-	touch js/scrypt.js
+	touch js/script.js
 }
 
 php-folder() {

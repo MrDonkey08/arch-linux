@@ -160,6 +160,12 @@
 	directory = /home/donkey/Templates/tex/modular_project
 	directory = /home/donkey/Templates/tex/project
 	directory = /home/donkey/Templates/tex/act
+	directory = /home/donkey/Drives/github/new-blog
+	directory = /home/donkey/Drives/github/old-blog
+	directory = /home/donkey/Drives/github/escuela/6to
+	directory = /home/donkey/Drives/github/school
+	directory = /home/donkey/.cache/paru/clone/spotube
+	directory = /home/donkey/.cache/paru/clone/spotube/src/flutter
 
 [alias]
 	# https://platzi.com/comentario/594183/
