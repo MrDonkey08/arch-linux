@@ -1,6 +1,4 @@
 # Identation
-useTabs = false
-tabWidth = 4
 vueIndentScriptAndStyle = true
 
 # Wrapping
@@ -19,9 +17,6 @@ semi = false
 singleQuote = false
 #singleLineLinkTags = false
 trailingComma = "es5"
-
-# SO config
-endOfLine = "lf"
 
 [[overrides]]
 files = "*.md"
