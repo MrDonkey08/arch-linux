@@ -2,7 +2,7 @@
 vueIndentScriptAndStyle = true
 
 # Wrapping
-printWidth = 100
+printWidth = 80
 proseWrap = "always"
 singleAttributePerLine = false
 htmlWhitespaceSensitivity = "css"
