@@ -1,1 +1,227 @@
-{"audioFx":{"delay":0,"eq":{"enabled":false,"factor":1,"values":[0,0,0,0,0,0,0,0,0,0]},"pitch":0,"volume":1},"backdropFx":{"filters":[{"name":"sepia","value":0},{"name":"hueRotate","value":0},{"name":"grayscale","value":0},{"name":"contrast","value":1},{"name":"brightness","value":1},{"name":"saturate","value":1},{"name":"invert","value":0},{"name":"blur","value":0},{"name":"opacity","value":1}],"transforms":[{"name":"scaleX","value":1},{"name":"scaleY","value":1},{"name":"translateX","value":0},{"name":"translateY","value":0},{"name":"rotateX","value":0},{"name":"rotateY","value":0},{"name":"rotateZ","value":0}]},"circleWidget":false,"darkTheme":true,"elementFx":{"filters":[{"name":"sepia","value":0},{"name":"hueRotate","value":0},{"name":"grayscale","value":0},{"name":"contrast","value":1},{"name":"brightness","value":1},{"name":"saturate","value":1},{"name":"invert","value":0},{"name":"blur","value":0},{"name":"opacity","value":1}],"transforms":[{"name":"scaleX","value":1},{"name":"scaleY","value":1},{"name":"translateX","value":0},{"name":"translateY","value":0},{"name":"rotateX","value":0},{"name":"rotateY","value":0},{"name":"rotateZ","value":0}]},"enabled":true,"firstUse":1703177253743,"hideBadge":false,"hideIndicator":false,"initialContext":2,"keybinds":[{"adjustMode":2,"command":"speed","enabled":false,"greedy":true,"id":"7944270980","key":"KeyA"},{"adjustMode":1,"command":"speed","enabled":false,"greedy":true,"id":"9715047062","key":"KeyS","valueNumber":1},{"adjustMode":2,"command":"speed","enabled":false,"greedy":true,"id":"9651132548","key":"KeyD","spacing":1},{"command":"pin","enabled":false,"greedy":true,"id":"3275199368","key":"KeyQ","valueState":"toggle"},{"command":"state","enabled":false,"greedy":true,"id":"4011410189","key":{"code":"KeyQ","shiftKey":true},"spacing":2,"valueState":"toggle"},{"adjustMode":2,"command":"seek","enabled":false,"greedy":true,"id":"1727541803","key":"KeyZ","valueNumber":-5},{"adjustMode":2,"command":"seek","enabled":false,"greedy":true,"id":"2680761881","key":"KeyX","spacing":1,"valueNumber":10},{"adjustMode":2,"autoPause":true,"command":"seek","duration":2,"enabled":false,"greedy":true,"id":"8451465000","key":{"code":"KeyZ","shiftKey":true},"valueNumber":-1},{"adjustMode":2,"autoPause":true,"command":"seek","duration":2,"enabled":false,"greedy":true,"id":"3929316963","key":{"code":"KeyX","shiftKey":true},"spacing":1,"valueNumber":1},{"command":"fullscreen","direct":true,"enabled":false,"greedy":true,"id":"3710728745","key":{"code":"KeyF","shiftKey":true},"spacing":2},{"command":"setMark","enabled":false,"greedy":true,"id":"6354801175","key":{"code":"KeyW","shiftKey":true},"valueString":"mark1"},{"command":"seekMark","enabled":false,"greedy":true,"id":"6055716758","key":"KeyW","valueString":"mark1"},{"command":"loop","enabled":false,"greedy":true,"id":"8989460318","key":"KeyR","spacing":2,"valueString":"mark1"},{"adjustMode":3,"command":"fxFilter","enabled":false,"filterOption":"invert","filterTarget":"both","greedy":true,"id":"5800113573","key":{"code":"KeyE"},"valueCycle":[0,1]},{"adjustMode":3,"command":"fxFilter","enabled":false,"filterOption":"grayscale","filterTarget":"backdrop","greedy":true,"id":"8498602714","key":{"code":"KeyE","shiftKey":true},"spacing":2,"valueCycle":[0,1]}],"lastSpeed":0.8,"latestViaShortcut":false,"rules":[{"condition":{"parts":[{"id":"778600122","type":"CONTAINS","valueContains":"spotify.com","valueRegex":"example\\.com","valueStartsWith":"https://example.com"}]},"enabled":true,"id":"8105954204","overrideSpeed":1,"spacing":1,"type":"SPEED"}],"speed":1.25,"version":12}
+{
+    "audioFx": {
+        "delay": 0,
+        "eq": { "enabled": false, "factor": 1, "values": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0] },
+        "pitch": 0,
+        "volume": 1
+    },
+    "backdropFx": {
+        "filters": [
+            { "name": "sepia", "value": 0 },
+            { "name": "hueRotate", "value": 0 },
+            { "name": "grayscale", "value": 0 },
+            { "name": "contrast", "value": 1 },
+            { "name": "brightness", "value": 1 },
+            { "name": "saturate", "value": 1 },
+            { "name": "invert", "value": 0 },
+            { "name": "blur", "value": 0 },
+            { "name": "opacity", "value": 1 }
+        ],
+        "transforms": [
+            { "name": "scaleX", "value": 1 },
+            { "name": "scaleY", "value": 1 },
+            { "name": "translateX", "value": 0 },
+            { "name": "translateY", "value": 0 },
+            { "name": "rotateX", "value": 0 },
+            { "name": "rotateY", "value": 0 },
+            { "name": "rotateZ", "value": 0 }
+        ]
+    },
+    "circleWidget": false,
+    "darkTheme": true,
+    "elementFx": {
+        "filters": [
+            { "name": "sepia", "value": 0 },
+            { "name": "hueRotate", "value": 0 },
+            { "name": "grayscale", "value": 0 },
+            { "name": "contrast", "value": 1 },
+            { "name": "brightness", "value": 1 },
+            { "name": "saturate", "value": 1 },
+            { "name": "invert", "value": 0 },
+            { "name": "blur", "value": 0 },
+            { "name": "opacity", "value": 1 }
+        ],
+        "transforms": [
+            { "name": "scaleX", "value": 1 },
+            { "name": "scaleY", "value": 1 },
+            { "name": "translateX", "value": 0 },
+            { "name": "translateY", "value": 0 },
+            { "name": "rotateX", "value": 0 },
+            { "name": "rotateY", "value": 0 },
+            { "name": "rotateZ", "value": 0 }
+        ]
+    },
+    "enabled": true,
+    "firstUse": 1703177253743,
+    "hideBadge": false,
+    "hideIndicator": false,
+    "initialContext": 2,
+    "keybinds": [
+        {
+            "adjustMode": 2,
+            "command": "speed",
+            "enabled": false,
+            "greedy": true,
+            "id": "7944270980",
+            "key": "KeyA"
+        },
+        {
+            "adjustMode": 1,
+            "command": "speed",
+            "enabled": false,
+            "greedy": true,
+            "id": "9715047062",
+            "key": "KeyS",
+            "valueNumber": 1
+        },
+        {
+            "adjustMode": 2,
+            "command": "speed",
+            "enabled": false,
+            "greedy": true,
+            "id": "9651132548",
+            "key": "KeyD",
+            "spacing": 1
+        },
+        {
+            "command": "pin",
+            "enabled": false,
+            "greedy": true,
+            "id": "3275199368",
+            "key": "KeyQ",
+            "valueState": "toggle"
+        },
+        {
+            "command": "state",
+            "enabled": false,
+            "greedy": true,
+            "id": "4011410189",
+            "key": { "code": "KeyQ", "shiftKey": true },
+            "spacing": 2,
+            "valueState": "toggle"
+        },
+        {
+            "adjustMode": 2,
+            "command": "seek",
+            "enabled": false,
+            "greedy": true,
+            "id": "1727541803",
+            "key": "KeyZ",
+            "valueNumber": -5
+        },
+        {
+            "adjustMode": 2,
+            "command": "seek",
+            "enabled": false,
+            "greedy": true,
+            "id": "2680761881",
+            "key": "KeyX",
+            "spacing": 1,
+            "valueNumber": 10
+        },
+        {
+            "adjustMode": 2,
+            "autoPause": true,
+            "command": "seek",
+            "duration": 2,
+            "enabled": false,
+            "greedy": true,
+            "id": "8451465000",
+            "key": { "code": "KeyZ", "shiftKey": true },
+            "valueNumber": -1
+        },
+        {
+            "adjustMode": 2,
+            "autoPause": true,
+            "command": "seek",
+            "duration": 2,
+            "enabled": false,
+            "greedy": true,
+            "id": "3929316963",
+            "key": { "code": "KeyX", "shiftKey": true },
+            "spacing": 1,
+            "valueNumber": 1
+        },
+        {
+            "command": "fullscreen",
+            "direct": true,
+            "enabled": false,
+            "greedy": true,
+            "id": "3710728745",
+            "key": { "code": "KeyF", "shiftKey": true },
+            "spacing": 2
+        },
+        {
+            "command": "setMark",
+            "enabled": false,
+            "greedy": true,
+            "id": "6354801175",
+            "key": { "code": "KeyW", "shiftKey": true },
+            "valueString": "mark1"
+        },
+        {
+            "command": "seekMark",
+            "enabled": false,
+            "greedy": true,
+            "id": "6055716758",
+            "key": "KeyW",
+            "valueString": "mark1"
+        },
+        {
+            "command": "loop",
+            "enabled": false,
+            "greedy": true,
+            "id": "8989460318",
+            "key": "KeyR",
+            "spacing": 2,
+            "valueString": "mark1"
+        },
+        {
+            "adjustMode": 3,
+            "command": "fxFilter",
+            "enabled": false,
+            "filterOption": "invert",
+            "filterTarget": "both",
+            "greedy": true,
+            "id": "5800113573",
+            "key": { "code": "KeyE" },
+            "valueCycle": [0, 1]
+        },
+        {
+            "adjustMode": 3,
+            "command": "fxFilter",
+            "enabled": false,
+            "filterOption": "grayscale",
+            "filterTarget": "backdrop",
+            "greedy": true,
+            "id": "8498602714",
+            "key": { "code": "KeyE", "shiftKey": true },
+            "spacing": 2,
+            "valueCycle": [0, 1]
+        }
+    ],
+    "lastSpeed": 0.8,
+    "latestViaShortcut": false,
+    "rules": [
+        {
+            "condition": {
+                "parts": [
+                    {
+                        "id": "778600122",
+                        "type": "CONTAINS",
+                        "valueContains": "spotify.com",
+                        "valueRegex": "example\\.com",
+                        "valueStartsWith": "https://example.com"
+                    }
+                ]
+            },
+            "enabled": true,
+            "id": "8105954204",
+            "overrideSpeed": 1,
+            "spacing": 1,
+            "type": "SPEED"
+        }
+    ],
+    "speed": 1.25,
+    "version": 12
+}

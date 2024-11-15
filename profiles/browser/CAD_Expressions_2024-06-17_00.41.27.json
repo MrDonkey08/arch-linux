@@ -1,860 +1,860 @@
 {
-  "default": [
-    {
-      "expression": "*.account.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "qsdWFIsYN"
-    },
-    {
-      "expression": "*.accounts.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "q9craKJy5p"
-    },
-    {
-      "expression": "*.aliexpress.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "KxtlOhYzCw"
-    },
-    {
-      "expression": "*.amazon.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "maYKNv5MKO"
-    },
-    {
-      "expression": "*.amazon.com.mx",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "dPH-KcIFlH"
-    },
-    {
-      "expression": "*.app.standardnotes.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "qshlSCYhKj"
-    },
-    {
-      "expression": "*.auth.netacad.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "fOILxchhVf"
-    },
-    {
-      "expression": "*.auth0.openai.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "h3JU99qTg"
-    },
-    {
-      "expression": "*.becas-santander.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "axVVMsPpFl"
-    },
-    {
-      "expression": "*.chatgpt.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "ZjzNglsEBt"
-    },
-    {
-      "expression": "*.discord.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "tDp5wu7Yy3"
-    },
-    {
-      "expression": "*.disneyplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "X5l1WFweL4"
-    },
-    {
-      "expression": "*.drive.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "9P_-DMDNqt"
-    },
-    {
-      "expression": "*.drive.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "DwUuSf9pXC"
-    },
-    {
-      "expression": "*.duolingo.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "rhb5L6jE6I"
-    },
-    {
-      "expression": "*.epicgames.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "Sf8PzG6JLM"
-    },
-    {
-      "expression": "*.erase.bg",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "uO36bkEZuO"
-    },
-    {
-      "expression": "*.es.khanacademy.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "wbb85xIfpO"
-    },
-    {
-      "expression": "*.esp.windscribe.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "WB5bHvgNh"
-    },
-    {
-      "expression": "*.facebook.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "C-7rTK-cTA"
-    },
-    {
-      "expression": "*.gaming.amazon.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "_rpmkaIxhy6"
-    },
-    {
-      "expression": "*.github.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "kpid2mEj-xZ"
-    },
-    {
-      "expression": "*.gog.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "b3HZ4sZCyGb"
-    },
-    {
-      "expression": "*.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "N0l_yVZR6W0"
-    },
-    {
-      "expression": "*.instagram.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "zyFJ5I8i_Z"
-    },
-    {
-      "expression": "*.joinhoney.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "nKyJ24mUsNP"
-    },
-    {
-      "expression": "*.khanacademy.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "2aNboQckwNC"
-    },
-    {
-      "expression": "*.letyshops.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "icWkF8ZLl2r"
-    },
-    {
-      "expression": "*.live.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "6DNQL-Itmve"
-    },
-    {
-      "expression": "*.mail.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "7GbrBwp9NCH"
-    },
-    {
-      "expression": "*.mail.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "l-sbwqvWXNC"
-    },
-    {
-      "expression": "*.mastermind.ac",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "napLkbIZ0M1"
-    },
-    {
-      "expression": "*.messenger.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "ZvMSK1Bz1rR"
-    },
-    {
-      "expression": "*.monkeytype.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "yKU_7RxVgWF"
-    },
-    {
-      "expression": "*.mozilla.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "fkVIsWvHEzJ"
-    },
-    {
-      "expression": "*.mx.aliexpress.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "9X9L2pVe7SI"
-    },
-    {
-      "expression": "*.my.pcloud.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "nDQQI_39DA4"
-    },
-    {
-      "expression": "*.netacad.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "t4rsY0b39"
-    },
-    {
-      "expression": "*.netflix.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "Y846H5VV7IL"
-    },
-    {
-      "expression": "*.odysee.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "rN5UBgXtW2m"
-    },
-    {
-      "expression": "*.open.spotify.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "50iJ8aNPiG5"
-    },
-    {
-      "expression": "*.openai.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "_-rAaXPKL"
-    },
-    {
-      "expression": "*.outlook.live.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "SHMjUPSM8ol"
-    },
-    {
-      "expression": "*.paramountplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "9KypGuz9C09"
-    },
-    {
-      "expression": "*.pcloud.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "H8PsHGYyqde"
-    },
-    {
-      "expression": "*.platzi.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "JctvP6q4GT0"
-    },
-    {
-      "expression": "*.primevideo.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "Obm-7z_r28o"
-    },
-    {
-      "expression": "*.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "1V63VgUV7pQ"
-    },
-    {
-      "expression": "*.shazam.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "AdfoDLOJsNa"
-    },
-    {
-      "expression": "*.spotify.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "gkT_x2dBWOL"
-    },
-    {
-      "expression": "*.standardnotes.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "163LA17VZyg"
-    },
-    {
-      "expression": "*.starplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "t3l159MMJCb"
-    },
-    {
-      "expression": "*.steampowered.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "mcfPe1wKuGz"
-    },
-    {
-      "expression": "*.store.epicgames.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "NS1QxzGqZZO"
-    },
-    {
-      "expression": "*.store.steampowered.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "0w6U45tpEzP"
-    },
-    {
-      "expression": "*.telegram.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "qFRB90ruUwj"
-    },
-    {
-      "expression": "*.web.telegram.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "1X2DQx6S5Lx"
-    },
-    {
-      "expression": "*.web.whatsapp.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "__A5NBtBcPA"
-    },
-    {
-      "expression": "*.whatsapp.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "xvyT5Gd3x0h"
-    },
-    {
-      "expression": "*.windscribe.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "6qDCB8gsO"
-    },
-    {
-      "expression": "*.youtube.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "sVgQFFAXEQk"
-    },
-    {
-      "expression": "account.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "xJant9CsDcG"
-    },
-    {
-      "expression": "accounts.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "5hqkz7lSBYc"
-    },
-    {
-      "expression": "amazon.com.mx",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "8jw_gWrmFg1"
-    },
-    {
-      "expression": "app.standardnotes.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "H6WjPt9a33g"
-    },
-    {
-      "expression": "auth.netacad.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "6HCMFSzgQ"
-    },
-    {
-      "expression": "auth0.openai.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "Z6GUnSf-JP"
-    },
-    {
-      "expression": "becas-santander.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "s97RKsnfF_y"
-    },
-    {
-      "expression": "chatgpt.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "78j6LlzSN"
-    },
-    {
-      "expression": "discord.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "aMx9HiqfOnA"
-    },
-    {
-      "expression": "disneyplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "_2YOg3xCmO3"
-    },
-    {
-      "expression": "drive.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "2ehMPF-P0LY"
-    },
-    {
-      "expression": "drive.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "YvK0YktFkZx"
-    },
-    {
-      "expression": "duolingo.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "c94VhsbbaNQ"
-    },
-    {
-      "expression": "erase.bg",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "oAPV96YnIsb"
-    },
-    {
-      "expression": "es.khanacademy.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "WM3DbOvZOdR"
-    },
-    {
-      "expression": "esp.windscribe.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "UEg4yakXS"
-    },
-    {
-      "expression": "facebook.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "BpebPvDkM19"
-    },
-    {
-      "expression": "gaming.amazon.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "IcYQSLERJgA"
-    },
-    {
-      "expression": "github.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "X37VmbmN9q7"
-    },
-    {
-      "expression": "gog.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "y2al4YaW_3I"
-    },
-    {
-      "expression": "instagram.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "NzjLoUNIX"
-    },
-    {
-      "expression": "joinhoney.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "ZoH2CWm58hM"
-    },
-    {
-      "expression": "letyshops.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "d3_Xh_xyUzR"
-    },
-    {
-      "expression": "mail.google.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "7VaBQMD-9JJ"
-    },
-    {
-      "expression": "mail.proton.me",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "hqjJGzurk6w"
-    },
-    {
-      "expression": "mastermind.ac",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "yjGiuzwbUTb"
-    },
-    {
-      "expression": "messenger.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "5zHOTAT9074"
-    },
-    {
-      "expression": "monkeytype.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "99hfimP6Yi-"
-    },
-    {
-      "expression": "mozilla.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "5GHgStvPZPc"
-    },
-    {
-      "expression": "mx.aliexpress.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "dwxSPycLMR2"
-    },
-    {
-      "expression": "my.pcloud.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "e2SSP9YPeZc"
-    },
-    {
-      "expression": "netflix.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "AULL21enAMB"
-    },
-    {
-      "expression": "odysee.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "r3-KeCZIx_o"
-    },
-    {
-      "expression": "open.spotify.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "zjk44F7vXg5"
-    },
-    {
-      "expression": "outlook.live.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "FkqMhZOPXgs"
-    },
-    {
-      "expression": "paramountplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "slcxKPy55-6"
-    },
-    {
-      "expression": "platzi.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "HeyDK1mUlHv"
-    },
-    {
-      "expression": "primevideo.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "yfEWEFsDXCY"
-    },
-    {
-      "expression": "shazam.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "qP_issAC8H7"
-    },
-    {
-      "expression": "spotify.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "7PMBIYytb2X"
-    },
-    {
-      "expression": "starplus.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "elkSrHsoN5h"
-    },
-    {
-      "expression": "store.epicgames.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "JpbYBJOZ-8F"
-    },
-    {
-      "expression": "store.steampowered.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "7iP1X0m9uw8"
-    },
-    {
-      "expression": "web.telegram.org",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "Oh8An3xV3L7"
-    },
-    {
-      "expression": "web.whatsapp.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "N96b9LS0r1E"
-    },
-    {
-      "expression": "youtube.com",
-      "listType": "WHITE",
-      "storeId": "default",
-      "cleanSiteData": [],
-      "cookieNames": [],
-      "id": "LZWmXrzifPc"
-    }
-  ]
+    "default": [
+        {
+            "expression": "*.account.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "qsdWFIsYN"
+        },
+        {
+            "expression": "*.accounts.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "q9craKJy5p"
+        },
+        {
+            "expression": "*.aliexpress.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "KxtlOhYzCw"
+        },
+        {
+            "expression": "*.amazon.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "maYKNv5MKO"
+        },
+        {
+            "expression": "*.amazon.com.mx",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "dPH-KcIFlH"
+        },
+        {
+            "expression": "*.app.standardnotes.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "qshlSCYhKj"
+        },
+        {
+            "expression": "*.auth.netacad.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "fOILxchhVf"
+        },
+        {
+            "expression": "*.auth0.openai.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "h3JU99qTg"
+        },
+        {
+            "expression": "*.becas-santander.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "axVVMsPpFl"
+        },
+        {
+            "expression": "*.chatgpt.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "ZjzNglsEBt"
+        },
+        {
+            "expression": "*.discord.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "tDp5wu7Yy3"
+        },
+        {
+            "expression": "*.disneyplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "X5l1WFweL4"
+        },
+        {
+            "expression": "*.drive.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "9P_-DMDNqt"
+        },
+        {
+            "expression": "*.drive.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "DwUuSf9pXC"
+        },
+        {
+            "expression": "*.duolingo.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "rhb5L6jE6I"
+        },
+        {
+            "expression": "*.epicgames.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "Sf8PzG6JLM"
+        },
+        {
+            "expression": "*.erase.bg",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "uO36bkEZuO"
+        },
+        {
+            "expression": "*.es.khanacademy.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "wbb85xIfpO"
+        },
+        {
+            "expression": "*.esp.windscribe.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "WB5bHvgNh"
+        },
+        {
+            "expression": "*.facebook.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "C-7rTK-cTA"
+        },
+        {
+            "expression": "*.gaming.amazon.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "_rpmkaIxhy6"
+        },
+        {
+            "expression": "*.github.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "kpid2mEj-xZ"
+        },
+        {
+            "expression": "*.gog.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "b3HZ4sZCyGb"
+        },
+        {
+            "expression": "*.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "N0l_yVZR6W0"
+        },
+        {
+            "expression": "*.instagram.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "zyFJ5I8i_Z"
+        },
+        {
+            "expression": "*.joinhoney.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "nKyJ24mUsNP"
+        },
+        {
+            "expression": "*.khanacademy.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "2aNboQckwNC"
+        },
+        {
+            "expression": "*.letyshops.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "icWkF8ZLl2r"
+        },
+        {
+            "expression": "*.live.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "6DNQL-Itmve"
+        },
+        {
+            "expression": "*.mail.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "7GbrBwp9NCH"
+        },
+        {
+            "expression": "*.mail.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "l-sbwqvWXNC"
+        },
+        {
+            "expression": "*.mastermind.ac",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "napLkbIZ0M1"
+        },
+        {
+            "expression": "*.messenger.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "ZvMSK1Bz1rR"
+        },
+        {
+            "expression": "*.monkeytype.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "yKU_7RxVgWF"
+        },
+        {
+            "expression": "*.mozilla.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "fkVIsWvHEzJ"
+        },
+        {
+            "expression": "*.mx.aliexpress.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "9X9L2pVe7SI"
+        },
+        {
+            "expression": "*.my.pcloud.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "nDQQI_39DA4"
+        },
+        {
+            "expression": "*.netacad.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "t4rsY0b39"
+        },
+        {
+            "expression": "*.netflix.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "Y846H5VV7IL"
+        },
+        {
+            "expression": "*.odysee.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "rN5UBgXtW2m"
+        },
+        {
+            "expression": "*.open.spotify.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "50iJ8aNPiG5"
+        },
+        {
+            "expression": "*.openai.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "_-rAaXPKL"
+        },
+        {
+            "expression": "*.outlook.live.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "SHMjUPSM8ol"
+        },
+        {
+            "expression": "*.paramountplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "9KypGuz9C09"
+        },
+        {
+            "expression": "*.pcloud.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "H8PsHGYyqde"
+        },
+        {
+            "expression": "*.platzi.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "JctvP6q4GT0"
+        },
+        {
+            "expression": "*.primevideo.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "Obm-7z_r28o"
+        },
+        {
+            "expression": "*.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "1V63VgUV7pQ"
+        },
+        {
+            "expression": "*.shazam.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "AdfoDLOJsNa"
+        },
+        {
+            "expression": "*.spotify.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "gkT_x2dBWOL"
+        },
+        {
+            "expression": "*.standardnotes.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "163LA17VZyg"
+        },
+        {
+            "expression": "*.starplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "t3l159MMJCb"
+        },
+        {
+            "expression": "*.steampowered.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "mcfPe1wKuGz"
+        },
+        {
+            "expression": "*.store.epicgames.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "NS1QxzGqZZO"
+        },
+        {
+            "expression": "*.store.steampowered.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "0w6U45tpEzP"
+        },
+        {
+            "expression": "*.telegram.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "qFRB90ruUwj"
+        },
+        {
+            "expression": "*.web.telegram.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "1X2DQx6S5Lx"
+        },
+        {
+            "expression": "*.web.whatsapp.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "__A5NBtBcPA"
+        },
+        {
+            "expression": "*.whatsapp.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "xvyT5Gd3x0h"
+        },
+        {
+            "expression": "*.windscribe.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "6qDCB8gsO"
+        },
+        {
+            "expression": "*.youtube.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "sVgQFFAXEQk"
+        },
+        {
+            "expression": "account.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "xJant9CsDcG"
+        },
+        {
+            "expression": "accounts.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "5hqkz7lSBYc"
+        },
+        {
+            "expression": "amazon.com.mx",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "8jw_gWrmFg1"
+        },
+        {
+            "expression": "app.standardnotes.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "H6WjPt9a33g"
+        },
+        {
+            "expression": "auth.netacad.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "6HCMFSzgQ"
+        },
+        {
+            "expression": "auth0.openai.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "Z6GUnSf-JP"
+        },
+        {
+            "expression": "becas-santander.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "s97RKsnfF_y"
+        },
+        {
+            "expression": "chatgpt.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "78j6LlzSN"
+        },
+        {
+            "expression": "discord.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "aMx9HiqfOnA"
+        },
+        {
+            "expression": "disneyplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "_2YOg3xCmO3"
+        },
+        {
+            "expression": "drive.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "2ehMPF-P0LY"
+        },
+        {
+            "expression": "drive.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "YvK0YktFkZx"
+        },
+        {
+            "expression": "duolingo.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "c94VhsbbaNQ"
+        },
+        {
+            "expression": "erase.bg",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "oAPV96YnIsb"
+        },
+        {
+            "expression": "es.khanacademy.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "WM3DbOvZOdR"
+        },
+        {
+            "expression": "esp.windscribe.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "UEg4yakXS"
+        },
+        {
+            "expression": "facebook.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "BpebPvDkM19"
+        },
+        {
+            "expression": "gaming.amazon.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "IcYQSLERJgA"
+        },
+        {
+            "expression": "github.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "X37VmbmN9q7"
+        },
+        {
+            "expression": "gog.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "y2al4YaW_3I"
+        },
+        {
+            "expression": "instagram.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "NzjLoUNIX"
+        },
+        {
+            "expression": "joinhoney.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "ZoH2CWm58hM"
+        },
+        {
+            "expression": "letyshops.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "d3_Xh_xyUzR"
+        },
+        {
+            "expression": "mail.google.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "7VaBQMD-9JJ"
+        },
+        {
+            "expression": "mail.proton.me",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "hqjJGzurk6w"
+        },
+        {
+            "expression": "mastermind.ac",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "yjGiuzwbUTb"
+        },
+        {
+            "expression": "messenger.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "5zHOTAT9074"
+        },
+        {
+            "expression": "monkeytype.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "99hfimP6Yi-"
+        },
+        {
+            "expression": "mozilla.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "5GHgStvPZPc"
+        },
+        {
+            "expression": "mx.aliexpress.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "dwxSPycLMR2"
+        },
+        {
+            "expression": "my.pcloud.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "e2SSP9YPeZc"
+        },
+        {
+            "expression": "netflix.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "AULL21enAMB"
+        },
+        {
+            "expression": "odysee.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "r3-KeCZIx_o"
+        },
+        {
+            "expression": "open.spotify.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "zjk44F7vXg5"
+        },
+        {
+            "expression": "outlook.live.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "FkqMhZOPXgs"
+        },
+        {
+            "expression": "paramountplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "slcxKPy55-6"
+        },
+        {
+            "expression": "platzi.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "HeyDK1mUlHv"
+        },
+        {
+            "expression": "primevideo.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "yfEWEFsDXCY"
+        },
+        {
+            "expression": "shazam.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "qP_issAC8H7"
+        },
+        {
+            "expression": "spotify.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "7PMBIYytb2X"
+        },
+        {
+            "expression": "starplus.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "elkSrHsoN5h"
+        },
+        {
+            "expression": "store.epicgames.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "JpbYBJOZ-8F"
+        },
+        {
+            "expression": "store.steampowered.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "7iP1X0m9uw8"
+        },
+        {
+            "expression": "web.telegram.org",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "Oh8An3xV3L7"
+        },
+        {
+            "expression": "web.whatsapp.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "N96b9LS0r1E"
+        },
+        {
+            "expression": "youtube.com",
+            "listType": "WHITE",
+            "storeId": "default",
+            "cleanSiteData": [],
+            "cookieNames": [],
+            "id": "LZWmXrzifPc"
+        }
+    ]
 }
