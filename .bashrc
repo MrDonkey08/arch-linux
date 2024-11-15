@@ -5,9 +5,10 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-alias ls='ls --color=auto'
-alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
-. "$HOME/.cargo/env"
 
-[ -f ~/.fzf.bash ] && source ~/.fzf.bash
+[ -f ~/.fzf.bash ] && source "$HOME/.fzf.bash"
+
+if [ -f "$HOME/.profile" ]; then
+	. "$HOME/.profile"
+fi

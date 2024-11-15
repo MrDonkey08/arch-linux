@@ -1,40 +1,40 @@
-# !/bin/bash
+#!/bin/bash
 
 # Functions to create folders for websites
 
-web-project() {
+function web-project() {
 	touch index.html
 	css-folder
 	js-folder
 }
 
-web-project-full() {
+function web-project-full() {
 	web-project
 	php-folder
 	mkdir img
 }
 
-css-folder() {
+function css-folder() {
 	mkdir css
 	touch css/styles.css
-	wget -d css/https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css
+	wget -d css/https://necolas.github.io/normalize.css/latest/normalize.css
 }
 
-js-folder() {
+function js-folder() {
 	mkdir js
 	touch js/script.js
 }
 
-php-folder() {
+function php-folder() {
 	mkdir php
 	touch php/index.php
 }
 
 # Functions to create cpp folders
 
-cpp-project() {
-	mkdir $1
-	cd $1
+function cpp-project() {
+	mkdir "$1"
+	cd "$1" || exit
 
 	mkdir include src
 	touch main.cpp
@@ -43,10 +43,5 @@ cpp-project() {
 	cd ../
 }
 
-cpp-codeblocks(){
-	
-}
-
-cpp-dev(){ 
-	
-}
+#function cpp-codeblocks() {}
+#function cpp-dev() {}
