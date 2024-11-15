@@ -2,6 +2,10 @@ sudo pacman -Syu
 
 # General
 
+sudo pacman -S pacman-contrib
+sudo pacman -S man-pages
+sudo pacman -S mandoc
+
 sudo pacman -S linux-headers dkms
 sudo pacman -S jshon expac git wget acpid avahi net-tools xdg-user-dirs
 systemctl enable acpid avahi-daemon systemd-timesyncd
@@ -184,4 +188,4 @@ sudo pacman -S git git-lfs
 sudo pacman -S reflector
 #reflector -c Mx -a 6 --sort rate --save /etc/pacman.d/mirrorlist
 #reflector --age 12 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
-reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+sudo reflector --verbose --latest 10 --protocol https --sort rate --save /etc/pacman.d/mirrorlist

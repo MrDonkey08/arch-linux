@@ -21,12 +21,25 @@ sudo pacman -S libxcrypt-compat net-tools inetutils
 # Postgresql
 sudo pacman -S postgresql
 
+## Debuggers
+sudo pacman -S gdb
+sudo pacman -S strace
+
 ## Programming
 
+### Compiled
+
+# Assembly
+sudo pacman -S nasm
 # C/C++
 sudo pacman -S gcc clang
 # Java
 sudo pacman -S jdk-openjdk
+# Rust
+#curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+### Interpreted
+
 # Python
 sudo pacman -S python python3 python-pip
 # Python Packages
@@ -34,8 +47,6 @@ sudo pacman -S tk python-pandas python-numpy python-sympy
 sudo pacman -S jupyterlab
 # Ruby
 sudo pacman -S ruby
-# Rust
-#curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # Text Editors
 

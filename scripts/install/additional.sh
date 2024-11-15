@@ -8,6 +8,7 @@ yay -S brave-bin
 # Cleaners
 
 sudo pacman -S bleachbit
+sudo pacman -S paccache
 
 # Converters
 
@@ -18,11 +19,23 @@ sudo pacman -S catdoc
 # Compressors
 
 sudo pacman -S imagemagick
+sudo pacman -S ps2pdf
+sudo pacman -S ghostscript
+
+# Diagrams
+
+sudo pacmman -S drawio-desktop
 
 # Math
 
 sudo pacman -S speedcrunch
 sudo pacman -S geogebra
+
+# Metadata Tools
+
+sudo pacman -S perl-image-exiftool
+# https://bbs.archlinux.org/viewtopic.php?id=134680
+#sudo ln /usr/bin/vendor_perl/exiftool /usr/bin/exiftool
 
 # Messengers
 
