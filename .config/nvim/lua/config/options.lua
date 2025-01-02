@@ -16,7 +16,7 @@ vim.o.tabstop = 4 -- Number of columns to move when pressing <TAB> (see expandta
 
 -- Wrapping
 vim.o.linebreak = true -- Respect WORDS when wrap-breaking lines (see wrap)
-vim.o.wrap = true -- Wrap text that reaches the window's width
+vim.o.wrap = false -- Wrap text that reaches the window's width
 
 -- Enumeration
 vim.o.number = true -- Number column to the left (used with relativenumber)
