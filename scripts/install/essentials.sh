@@ -13,7 +13,7 @@ systemctl enable acpid avahi-daemon systemd-timesyncd
 ## Android Support
 
 # To be able to access to android files
-#sudo pacman -S android-file-transfer
+sudo pacman -S android-file-transfer
 
 ## Android Debug Bridge
 
@@ -23,6 +23,8 @@ systemctl enable acpid avahi-daemon systemd-timesyncd
 # Drivers
 
 ## Audio
+
+sudo pacman -S flac
 
 ### FulseAudio
 
@@ -157,7 +159,7 @@ sudo pacman -S tree
 
 sudo pacman -S p7zip unrar zip unzip
 sudo pacman -S tar unarchiver unace xz rsync
-sudo pacman -S gzip pbzip2
+sudo pacman -S gzip pbzip2 bzip3
 
 ## File Systems
 
@@ -167,6 +169,7 @@ sudo pacman -S nfs-utils cifs-utils ntfs-3g exfat-utils gvfs udisks2
 
 sudo pacman -S noto-fonts
 sudo pacman -S ttf-font-awesome
+sudo pacman -S ttf-liberation
 paru -S ttf-font-awesome-4 ttf-material-design-icons
 sudo pacman -S gnu-free-fonts
 

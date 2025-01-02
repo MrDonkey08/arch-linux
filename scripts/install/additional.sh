@@ -1,9 +1,15 @@
 sudo pacman -Syu
 
+# Android
+
+sudo pacman -S scrcpy
+
 # Browsers
 
-sudo pacman -S firefox
 yay -S brave-bin
+sudo pacman -S firefox
+sudo pacman -S lynx
+sudo pacman -S torbrowser-launcher
 
 # Cleaners
 
@@ -28,6 +34,7 @@ sudo pacmman -S drawio-desktop
 
 # Math
 
+sudo pacman -S bc
 sudo pacman -S speedcrunch
 sudo pacman -S geogebra
 
@@ -51,11 +58,22 @@ sudo pacman -S flameshot
 #sudo pacman -S nvidia-settings
 sudo pacman -S thunar gvfs
 
-# Security and Privacy
+## Media Edition
+
+sudo pacman -S kdenlive
+sudo pacman -S gimp
+sudo pacman -S tenacity
+
+# Security
 
 sudo pacman -S keepassxc
 #sudo pacman -S ufw
 paru -S scrub
+sudo pacman -S virustotal
+
+# Privacy
+
+sudo pacman -S veracrypt
 
 ## VPN
 
@@ -64,7 +82,12 @@ sudo pacman -S torctl
 
 # Utility
 
+sudo pacman -S at
+sudo pacman -S htop
+sudo pacman -S iostat
+sudo pacman -S rclone
 sudo pacman -S gparted
+sudo pacman -S sysstat
 sudo pacman -S timeshift
 
 sudo pacman -S mdcat bat lsd
@@ -73,7 +96,8 @@ sudo pacman -S fzf
 
 ## Extra
 
-sudo pacman -S neofetch
+rsudo pacman -S neofetch
+sudo pacman -S fastfetch
 sudo pacman -S lolcat cowsay
 
 # Windows Support

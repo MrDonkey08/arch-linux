@@ -2,9 +2,9 @@ sudo pacman -Syu
 yay -Syu || paru -Syu
 
 npm install -g npm
-npm update
+sudo npm -g update
 
-nvm install node
+#nvm install node
 
 rustup update
 gem update

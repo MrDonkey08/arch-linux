@@ -16,6 +16,8 @@ gem install jekyll bundler
 
 ## Databases
 
+sudo pacman -S dbeaver
+
 # Xampp
 sudo pacman -S libxcrypt-compat net-tools inetutils
 # Postgresql
@@ -31,6 +33,7 @@ sudo pacman -S strace
 
 # Assembly
 sudo pacman -S nasm
+sudo pacman -S dosbox
 # C/C++
 sudo pacman -S gcc clang
 # Java
@@ -40,6 +43,9 @@ sudo pacman -S jdk-openjdk
 
 ### Interpreted
 
+# Lua
+sudo pacman -S lua
+sudo pacman -S lua51
 # Python
 sudo pacman -S python python3 python-pip
 # Python Packages
@@ -67,7 +73,9 @@ sudo pacman -S zathura zathura-pdf-mupdf
 
 ## Tools
 
-### Linters and Formatters
+### Linters, Formatters, Parsers...
 sudo pacman -S markdownlint
 sudo pacman -S prettier
 npm install -g purgecss
+sudo pacman -S tree-sitter
+sudo pacman -S tree-sitter-cli
